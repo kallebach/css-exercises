@@ -1,0 +1,20 @@
+/* exercise 02 */
+
+.odd {
+    background-color: pink;
+    font-family: Veranda, "DejaVu Sans", sans-serif;
+}
+
+.standard-font {
+    font-size: 24px;
+}
+
+#II {
+    color: blue;
+    font-size: 36px;
+}
+
+#IV {
+    background-color: lightgreen;
+    font-weight: bold;
+}
